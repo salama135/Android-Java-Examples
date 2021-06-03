@@ -36,7 +36,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            tools:context="com.example.currency_converter.MapsMainActivity" />
+            tools:context="com.example.android_java_examples.MapsMainActivity" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
