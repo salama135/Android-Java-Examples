@@ -5,6 +5,7 @@ import android.location.Location;
 
 import androidx.annotation.NonNull;
 
+
 public class LocationListener implements android.location.LocationListener {
 
     private Context context;
