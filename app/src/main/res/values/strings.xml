@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Currency-Converter</string>
+    <string name="app_name">Android Java Examples</string>
     <string name="convert_button">Convert</string>
     <string name="clear_button">Clear</string>
     <string name="choose_currency_from_text">USD</string>
     <string name="choose_currency_to_text">EGP</string>
     <string name="result_text">Result</string>
     <string name="title_activity_list_view">ListViewActivity</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>

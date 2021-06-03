@@ -1,4 +1,4 @@
-package com.example.currency_converter.helper;
+package com.example.android_java_examples.helper;
 
 import android.content.Context;
 import android.location.Location;

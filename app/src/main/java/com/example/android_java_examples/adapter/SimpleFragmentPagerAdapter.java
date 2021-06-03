@@ -1,4 +1,4 @@
-package com.example.currency_converter.adapter;
+package com.example.android_java_examples.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -6,9 +6,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.currency_converter.fragment.CameraFragment;
-import com.example.currency_converter.fragment.MusicFragment;
-import com.example.currency_converter.fragment.VoiceFragment;
+import com.example.android_java_examples.fragment.CameraFragment;
+import com.example.android_java_examples.fragment.MusicFragment;
+import com.example.android_java_examples.fragment.VoiceFragment;
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
     public SimpleFragmentPagerAdapter(@NonNull FragmentManager fm) {

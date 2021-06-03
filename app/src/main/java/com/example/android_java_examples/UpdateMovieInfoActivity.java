@@ -1,4 +1,4 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.currency_converter.helper.MovieDBHelper;
+import com.example.android_java_examples.helper.MovieDBHelper;
 
 public class UpdateMovieInfoActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import org.junit.jupiter.api.Test;
 

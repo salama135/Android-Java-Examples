@@ -1,4 +1,4 @@
-package com.example.currency_converter.fragment;
+package com.example.android_java_examples.fragment;
 
 import android.Manifest;
 import android.app.Activity;
@@ -20,7 +20,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.example.currency_converter.R;
+import com.example.android_java_examples.R;
 
 
 public class CameraFragment extends Fragment {

@@ -1,4 +1,4 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.currency_converter.helper.MovieDBHelper;
+import com.example.android_java_examples.helper.MovieDBHelper;
 
 import java.util.ArrayList;
 

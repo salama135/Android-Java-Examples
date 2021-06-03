@@ -1,4 +1,4 @@
-package com.example.currency_converter.helper;
+package com.example.android_java_examples.helper;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,11 +6,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
-import android.widget.Toast;
-
-import androidx.annotation.Nullable;
-
-import retrofit2.http.Query;
 
 public class CompanyDBHelper extends SQLiteOpenHelper {
 

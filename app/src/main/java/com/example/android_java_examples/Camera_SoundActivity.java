@@ -1,11 +1,11 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 
-import com.example.currency_converter.adapter.SimpleFragmentPagerAdapter;
+import com.example.android_java_examples.adapter.SimpleFragmentPagerAdapter;
 import com.google.android.material.tabs.TabLayout;
 
 public class Camera_SoundActivity extends AppCompatActivity {

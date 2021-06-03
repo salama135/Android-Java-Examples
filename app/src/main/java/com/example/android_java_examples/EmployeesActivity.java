@@ -1,4 +1,4 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.currency_converter.helper.CompanyDBHelper;
+import com.example.android_java_examples.helper.CompanyDBHelper;
 
 public class EmployeesActivity extends AppCompatActivity {
 

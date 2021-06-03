@@ -1,4 +1,4 @@
-package com.example.currency_converter.fragment;
+package com.example.android_java_examples.fragment;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -19,8 +19,8 @@ import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.currency_converter.R;
-import com.example.currency_converter.helper.CompanyDBHelper;
+import com.example.android_java_examples.R;
+import com.example.android_java_examples.helper.CompanyDBHelper;
 
 import java.util.ArrayList;
 import java.util.Locale;

@@ -1,8 +1,7 @@
-package com.example.currency_converter;
+package com.example.android_java_examples;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.content.ContextCompat;
 
 import android.content.Context;
 import android.location.LocationManager;
@@ -10,7 +9,7 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.currency_converter.helper.LocationListener;
+import com.example.android_java_examples.helper.LocationListener;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;

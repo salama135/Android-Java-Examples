@@ -1,4 +1,4 @@
-package com.example.currency_converter.service;
+package com.example.android_java_examples.service;
 
 import android.app.Service;
 import android.content.Intent;
@@ -7,7 +7,7 @@ import android.os.IBinder;
 
 import androidx.annotation.Nullable;
 
-import com.example.currency_converter.R;
+import com.example.android_java_examples.R;
 
 public class MusicService extends Service {
     private MediaPlayer player;
