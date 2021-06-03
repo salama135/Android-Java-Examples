@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Currency-Converter</string>
+    <string name="convert_button">Convert</string>
+    <string name="clear_button">Clear</string>
+    <string name="choose_currency_from_text">USD</string>
+    <string name="choose_currency_to_text">EGP</string>
+    <string name="result_text">Result</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="button_back">Back</string>
+    <string name="button_gridView">GridView</string>
+
+    <string name="todo_hint">New Todo Item</string>
+    <string name="todo_button_text">Add Todo Item</string>
+    <string-array name="grid">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+    </string-array>
+
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="show_movies">Show Movies</string>
+    <string name="update_movie">Update movie</string>
+    <string name="delete_movie">Delete movie</string>
+
+    <string name="search_button">Search</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="title_activity_camera__sound">Camera_SoundActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="show_current_location">Show Current Location</string>
+    <string name="help_location">Type Location</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Camera">
+
+    <Button
+        android:id="@+id/btn_opencamera"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:text="Camera"
+        android:translationX="130dp"
+        android:translationY="100dp"
+
+        />
+
+    <ImageView
+        android:id="@+id/imageView_iwanttodie"
+        android:layout_width="383dp"
+        android:layout_height="259dp"
+        android:translationX="5dp"
+        android:translationY="200dp"
+        android:visibility="visible"
+        tools:src="@tools:sample/backgrounds/scenic" />
+
+</FrameLayout>

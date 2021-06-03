@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Voice">
+
+    <ImageButton
+        android:id="@+id/imageButtonVoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_btn_speak_now"
+        android:translationX="320dp"
+        android:translationY="120dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:translationX="10dp"
+        android:translationY="120dp" />
+
+    <ListView
+        android:id="@+id/listview10"
+        android:layout_width="match_parent"
+        android:layout_height="626dp"
+        android:translationY="180dp" />
+
+</FrameLayout>

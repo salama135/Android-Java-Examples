@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Music">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:id="@+id/btn_stopmusic"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:translationX="200dp"
+        android:translationY="100dp"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <Button
+        android:id="@+id/btn_playmusic"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:text="Play "
+        android:translationX="50dp"
+        android:translationY="100dp"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="200dp" />
+</FrameLayout>
